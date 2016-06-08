@@ -15,6 +15,7 @@
   * use this stock to prepare the 45%, 15%, and 1M sucrose solutions.
 
 ###Protocol:
+** DAY 1**
 1. Wash cells twice with ice cold PBS + CHX
   * Use a 1/1000 dilution of the stock CHX solution
 2. Tilt the dishes in the ice and remove the PBS + CHX
@@ -28,3 +29,18 @@
 6. Transfer lysate to 1.5 ml Eppendorf tube on ice.
 7. Incubate on ice for 15 min.
 8. Store samples at -80ºC until ready.
+
+**DAY 2**
+1. Thaw samples on ice.
+2. Transfer 100 µl of lysate from each timepoint to a separate Eppendorf for RNAseq
+  *  Keep on ice.
+3. Centrifuge lysate for Riboseq at 13,000 rpm in microcentrifuge at 4ºC, 10 min.
+4. Transfer supernatant to new Eppendorf and discard pellet.
+5. Add RNaseI 4 µl per plate or 8 µl per tube in this case, to the lysate.
+  * RNaseI is stored in the -20ºC freezer.
+6. Incubate with RNAseI in the cold room on a rotator for 1 hr (attach with tape).
+7. Add 4 volumes of Trizol LS reagent to RNAseq aliquots (Total volume should be 500 µl)
+  * Trizol is stored in the flammable closet beneath the chimical hood.
+8. Incubate for 5 min at RT then transfer to -80ºC freezer.
+9. Remove Riboseq samples from the rotator, place on ice and add 4 µl of SUPERase In to each sample.
+10. Proceed to sucrose gradient protocol.
