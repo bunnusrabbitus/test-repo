@@ -44,3 +44,31 @@
 8. Incubate for 5 min at RT then transfer to -80ºC freezer.
 9. Remove Riboseq samples from the rotator, place on ice and add 4 µl of SUPERase In to each sample.
 10. Proceed to sucrose gradient protocol.
+
+######Notes on sucrose cushion
+* RNA binding protein protected RNA fragments are excluded when using a sucrose gradient. This is not the case if a sucrose cushion is used.
+* I will not use this technique
+* Prepare 1 ml per sample of sucrose in 15 ml tube
+  * Add CHX 1/1000 to sucrose (Concentration 1 M).
+* Transfer the sample to sucrose (505 µl).
+  * If the sample is larger than 600 µl, it should be split into two tubes (this doesn't apply for a sucrose gradient).
+* Place samples in the SW55TI rotor.
+* Centrifuge at 54,000 rpm, for 6 h 30 min at 4ºC.
+* The ribosome fraction will be pelleted.
+* Remove the supernatant and dissolve the pellet in 1 ml of Trizol LS
+* Store 500 µl of the sample at -80ºC as a back-up.
+
+#####Preparing a sucrose cushion.
+1. Prepare 1 M Sucrose from 60% sucrose solution stock
+  * 60% sucrose = 60 g per 100 ml
+  * 1 M sucrose = 34.2 g per 100 ml
+  * So dilute 5.67 ml 60% stock in 4.33 ml polysome buffer to prepare 10 ml of 1 M sucrose
+2. Add 1 ml of 1 M sucrose containing 100 µg/ml CHX (1/1000 dilution to the ultracentrifuge tube
+  * Thickwall, polycarbonate, 3.5 ml, 13 x 51 mm (Beckman 349622).
+3. Add < 600 µl of cell lysate on top of the 1 ml of sucrose (if more than 600 µl, split into two tubes).
+4. Centrifuge at 54,000 rpm for 6.5 h with the SW55 Ti rotor
+5. After centrifugation the pellet will be transparent.
+6. Remove the sucrose.
+7. Wash the pellet with polysome buffer without dislodging the pellet.
+8. Dissolve the pellet in Trizol LS
+9. Store samples at -80ºC for future library construction.
