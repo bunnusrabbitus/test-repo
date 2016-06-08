@@ -10,7 +10,7 @@
 * FBS = fetal bovine serum
 * DAPI = 4',6-diamidino-2-phenylindole
 * PBS = phosphate-buffered saline
-* PBS<sup>+</sup> = phosphate-buffered saline plus 2 mM MgCl<sub>2</sub>
+* PBS<sup>+</sup> = phosphate-buffered saline _plus_ 2 mM MgCl<sub>2</sub>
 
 ####Protocol:
 
