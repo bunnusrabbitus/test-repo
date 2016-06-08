@@ -72,3 +72,52 @@
 7. Wash the pellet with polysome buffer without dislodging the pellet.
 8. Dissolve the pellet in Trizol LS
 9. Store samples at -80ºC for future library construction.
+
+######Notes on sucrose gradient
+* see: http://www.jove.com/video/51455/polysome-fractionation-analysis-mammalian-translatomes-on-genome-wide
+* The 15% → 45% sucrose gradient is made by the Gradient Master machine
+  * Fill up tube to top with 45% sucrose and 15% sucrose (half/half)
+* Prep machine
+  * Level platform with the two nobs
+  * Select the only setting available
+  * Add sucrose to tube and put black rubber cap on top
+  * Press 1
+  * Platform start rotating till gradient is created
+  * Time/angle/speed shown in top right corner screen
+  * Once finished carefully remove magnetic tube holder in a sideways fashion
+  * Exit program
+  * Turn off
+  * Remove top 400 μl of sucrose gradient so you can add lysate
+  * Proceed to centrifugation
+
+#####Preparing a sucrose gradient.
+
+1. Prepare ~7 ml of both 45% and 15% sucrose solution per sample by diluting premade 60% sucrose stock solution
+
+Final Conc. | Total vol. | Vol. of 60% Sucrose | Vol. of Polysome buffer
+------------|------------|---------------------|------------------------
+15% | 15 ml | 3.75 ml | 11.25 ml
+45% | 15 ml | 11.25 ml | 3.75 ml
+15% | 25 ml | 6.25 ml | 18. 75 ml
+45% | 25 ml | 18.75 ml | 6.25 ml
+
+2. Mark the centrifuge tubes iwth the mark block (Thinwall, polyproylene, 13.2 ml, 14 x 89 mm (Beckman)
+3. Fill the tubes with 15% sucrose first with the needle and syrnge fill to just slightly above the marked line.
+4. Underlay the 45% sucrose slowly to the marked line.
+  * Lift the needle up slowly as you add the 45% sucrose to displace the weight
+  * Should get a 'bulb at the top of the tube with the 15% sucrose almost spilling over
+5. Close off the tube with the black rubber stopper, keeping the air hole at the top during closing
+6. Turn on the gradient master and make sure it is level.
+7. Place the tubes into the magentic holder and place the holder on the gradient master
+8. Use the program: got to gradient -> recent (check this is what you want) -> sw41 -> use -> run
+  * if a different gradient is needed, adjust accordingly.
+9. While the gradient master is running, clean the needle with methanol and DEPC
+10. When gradient is done, remove the stoppers
+11. Remove 600 µl of sucrose from the top of the tube with a pipette
+12. Gently overlay 550 µl of sample to the top of the gradient.
+13. Weigh the tubes and make sure they are balanced to within 0.05 g of each other (add extra sucrose if not).
+14. Carefully load the tubes into the SW41 centrifuge rotor
+15. Centrifuge at 38,000 rpm for 2 h 38 min at 4ºC.
+
+
+
