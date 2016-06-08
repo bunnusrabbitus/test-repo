@@ -12,6 +12,8 @@
 * PBS = phosphate-buffered saline
 * PBS+ = phosphate-buffered saline containing 2 mM MgCl2
 
+####Protocol:
+
 1.	**Day Before Infection**
   *	Prepare a 24 well plate containing 15mm glass coverslips at a cell density that gives rise to about 60% confluency the next day. 
 
