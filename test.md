@@ -4,8 +4,8 @@
 1.	**Day Before Infection**
   *	Prepare a 24 well plate containing 15mm glass coverslips at a cell density that gives rise to about 60% confluency the next day. 
 
-2.	Infection
-In general, for the examination of translational proteins during infection I infect with a MOI of 1 so that I can capture both infected and uninfected within the same image.
+2.	**Infection**
+  In general, for the examination of translational proteins during infection I infect with a MOI of 1 so that I can capture both infected and uninfected within the same image.
 
   *	Ensure that cells are no more than 70% confluent.
   *	Place your virus on ice.
