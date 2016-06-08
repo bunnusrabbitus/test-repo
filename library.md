@@ -194,6 +194,7 @@ Final Conc. | Total vol. | Vol. of 60% Sucrose | Vol. of Polysome buffer
   1. Repeat previous steps for each batch of five tubes until all RNA has been fragmented
   2. Collect content of all tubes in 1.5 ml eppendorfs and for 400 μl  of fragmentation mixture add 40 μl of 3M sodium acetate (pH 5.2), 4 μl glycogen (100 μg/ml final) and 890 μl of 100% ethanol
   3. Mix content and incubate at -80°C O/N
+
 ######Preparing fragmentation buffer:
 * 100 µl of 1 M Tris HCl
 * 100 µl of 1 M ZnCl2
