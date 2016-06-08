@@ -10,7 +10,7 @@
 * FBS = fetal bovine serum
 * DAPI = 4',6-diamidino-2-phenylindole
 * PBS = phosphate-buffered saline
-* PBS+ = phosphate-buffered saline containing 2 mM MgCl2
+* PBS+ = phosphate-buffered saline containing 2 mM MgCl<sub>2</sub>
 
 ####Protocol:
 
@@ -22,9 +22,9 @@
 
   1.	 Ensure that cells are no more than 70% confluent.
   2.	 Place your virus on ice.
-  3.	 Aspirate media from each well and rinse one time with PBS containing 2 mM MgCl2 (PBS+). 
+  3.	 Aspirate media from each well and rinse one time with PBS containing 2 mM MgCl<sub>2</sub> (PBS<sup>+</sup>). 
   4.	 To a 24 well plate add 150 µl (total volume) PBS+ containing virus. Incubate virus-infected cells at RT for 1 h with rocking every 10 minutes.
-  5.	 At the end of infection, aspirate virus and rinse once with PBS+. Add 500 µl of warmed media. Place cells in incubator at 37°C for desired time.
+  5.	 At the end of infection, aspirate virus and rinse once with PBS<sup>+</sup>. Add 500 µl of warmed media. Place cells in incubator at 37°C for desired time.
 
 3.	**Ribopuromycylation with co-extract fix (to localize active translation using Puromycin)**
 
@@ -35,7 +35,7 @@
   5. 	Add warmed RPM media to coverslips for 5 minutes at 37°C
   6. 	Immediately place plate on ice.
   7. 	Wash cells x 2 with ice cold PBS.
-  8. 	Fix and extract cells with polysome buffer (300 µl) (50 mM Tris-HCl, pH 7.5, 5 mM MgCl2, 25 mM KCl, 355 μM cycloheximide, EDTA-free protease inhibitors, and 10 U/ml RNaseOut) supplemented with 0.1% Triton X-100 and 3% paraformaldehyde (PFA). Incubate cells on ice for 20 minutes.
+  8. 	Fix and extract cells with polysome buffer (300 µl) (50 mM Tris-HCl, pH 7.5, 5 mM MgCl<sub>2</sub>, 25 mM KCl, 355 μM cycloheximide, EDTA-free protease inhibitors, and 10 U/ml RNaseOut) supplemented with 0.1% Triton X-100 and 3% paraformaldehyde (PFA). Incubate cells on ice for 20 minutes.
   9. 	Wash x 3 with PBS.
   10. 	Incubate coverslips with staining buffer (SB, 0.05% saponin, 10 mM glycine, 5% FBS, and PBS) for 15 min at RT.
   11. 	Aspirate SB and incubate coverslips with primary antibody (anti-puromycin, clone 2A4, 1:4000. http://dshb.biology.uiowa.edu/puromycin) diluted in SB for 1 h at RT on rocker (slowest speed).
@@ -46,9 +46,9 @@
 
 
 ###IMPORTANT RECIPES:
-**PBS(+)**
+**PBS(<sup>+</sup>)**
 * PBS
-* 2 mM MgCl2
+* 2 mM MgCl<sub>2</sub>
 
 **RPM Buffer**
 * Dulbecco’s modified Eagle’s medium (DMEM)
@@ -58,7 +58,7 @@
 
 **Polysome Buffer**
 * 50 mM Tris-HCl, pH 7.5 
-* 5 mM MgCl2
+* 5 mM MgCl<sub>2</sub>
 * 25 mM KCl
 * 355 μM cycloheximide
 * EDTA-free protease inhibitors
