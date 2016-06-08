@@ -119,5 +119,86 @@ Final Conc. | Total vol. | Vol. of 60% Sucrose | Vol. of Polysome buffer
 14. Carefully load the tubes into the SW41 centrifuge rotor
 15. Centrifuge at 38,000 rpm for 2 h 38 min at 4ºC.
 
+#####Collecting the fractions
+
+######During the centrifugation, set up the fractionator as follows:
+
+1. Turn on the pump to manual
+2. Place the small tubing into 50 ml methanol and reverse pump rapidly into the syringe of the pump.
+3. Remove all air bubbles from the syringe and tubing by tilting the machine carefull vertically and forward pump out the bubbles.
+4. Connect the needle to the tubing.
+5. Slowly pump until methanol comes out of the needle and all of the bubbles are cleared.
+6. Turn the bottom of the apparatus to puncture the bottom of the empty sample tube.
+  1. Aim to get the needle in the middle of the tube.
+  2. Continue puncturing the tube until both black lines on the needle are visible.
+7. Pump the methanol into the tube until methanol reaches the waste
+8. Remove methanol from the tubing by reverse pumping
+9. Transfer methanol back to the 50 ml storage tube.
+10. Repeat the above process using DEPC-treated water.
+
+######Fractionating the gradients
+
+1. Prepare ice bucket with premade holes to hold the centrifuge tubes
+2. Remove centrifuge tubes with forceps from rotor and place on ice
+3. Prepare for fractionation by filling syring with +/- 25 ml of 60% sucrose solution.
+4. Attach the seal apparatus on the sample tube.
+5. Pump forward at normal speed to remove all bubbles from the needle
+6. Place the needle in line with the sample tube until the apparatus is sealed tight.
+7. Slowly wind the needle into the sample until both black lines on the needle are visible
+8. Check if the graphing machine is warmed up (green light should be on)
+9. Remove the cap from the red chart marker
+10. Set the needle marker at ~ 30 on the graph.
+11. Place Eppendorf tube in the collection platform
+12. Turn Brandel pump to "remote"
+13. Settings on "forward", "normal", and "1.5"
+14. Press run
+15. Mark the graph paper as the peaks come out to correspond with the tubes.
+16. Label the tubes and place on ice.
+17. When profiling is complete or reading to be stopped, go to manual on the Brandel and reverse the sample back.
+18. Forward pump into a waste tube.
+
+######Cleaning the fractionator system
+1. Remove graph
+2. Cap graph marker
+3. go back and forth with methanol 3x trough tubing
+4. Rinse system with DEPC-treated water 
+
+#####DAY 3
+1. Add 500 μl chloroform to both RNA and Riboseq samples
+2. Centrifuge 13000 rpm/min, 15min, 4°C
+3. Transfer top layer to new Eppendorf
+4. Add 500 μl of ice-cold isopropanol 
+  1. Add 4 μl of glycogen to Riboseq samples for visualizing pellet
+5. Incubate at RT for 10 min (Saisai does 30min)
+6. Centrifuge 13000 rpm/min, 15min, 4°C
+7. Wash with 70% ethanol (-20°C) 
+  1. Shake Eppendorf till pellet floats
+  2. Centrifuge 13000 rpm/min, 5min, 4°C
+8. Dissolve RNAseq pellet in 10 μl and riboseq in 15 μl MQ H2O
+9. Measure concentrations with Nanodrop 2000
+  1. Concentrations normally around 1500-2000 ng/μl
+  2. If total amount is less than 18 μg, use protocol for low amount RNA
+10. Prep Riboseq samples
+  1. E.g.: 1531 μg/μl; need ±10 μg
+11. So take 7 μl of riboseq sample and add complete to 11 μl with RNAse-free water
+12. Store at -80°C
+13. Fragmentation of RNAseq samples
+  1. Adjust the RNA concentration to 1 μg/μl with RNAse-free water. Set up the following fragmentation in a thin-walled 200 μl PCR tube. Vortex and spin down tube
+  2. Reaction: 18 μl of RNA (1 μg/μl), 2 μl fragmentation buffer 10x, 
+14. Incubate tube at 94°C for 5 min in thermal cycler block with heated lid on
+15. Remove PCR tube from block and immediately add 2 μl of 0.5M EDTA
+16. Vortex, spin down, put on ice
+  1. In case of low amount of RNA
+17. 18 μl of RNA (4 μg total amount of RNA), 2 μl of fragmentation buffer
+18. 94°C for 3 min
+  1. Repeat previous steps for each batch of five tubes until all RNA has been fragmented
+  2. Collect content of all tubes in 1.5 ml eppendorfs and for 400 μl  of fragmentation mixture add 40 μl of 3M sodium acetate (pH 5.2), 4 μl glycogen (100 μg/ml final) and 890 μl of 100% ethanol
+  3. Mix content and incubate at -80°C O/N
+######Preparing fragmentation buffer:
+* 100 µl of 1 M Tris HCl
+* 100 µl of 1 M ZnCl2
+* 800 µl of RNAse-free water
+* Prepare 3 M Sodium acetate, pH 5.2 myself from powder.
+
 
 
