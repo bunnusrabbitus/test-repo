@@ -14,6 +14,7 @@
 * Prepare 60% sucrose stock
   * Use this to prepare the 45%, 15% and 1M Sucrose solutions
 ####Protocol
+
 * Wash 2x with ice cold PBS+CHX
 * 1/1000 dilution CHX
 * Tilt plates in ice for easy removal of PBS+CHX
