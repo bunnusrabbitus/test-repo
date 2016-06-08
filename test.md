@@ -5,11 +5,11 @@
   *	Prepare a 24 well plate containing 15mm glass coverslips at a cell density that gives rise to about 60% confluency the next day. 
 
 2.	**Infection**
-  In general, for the examination of translational proteins during infection I infect with a MOI of 1 so that I can capture both infected and uninfected within the same image.
+  * In general, for the examination of translational proteins during infection I infect with a MOI of 1 so that I can capture both infected and uninfected within the same image.
 
-  *	Ensure that cells are no more than 70% confluent.
-  *	Place your virus on ice.
-  *	Aspirate media from each well and rinse one time with PBS containing 2 mM MgCl2 (PBS+). 
+  1	Ensure that cells are no more than 70% confluent.
+  2	Place your virus on ice.
+  3	Aspirate media from each well and rinse one time with PBS containing 2 mM MgCl2 (PBS+). 
   *	To a 24 well plate add 150ul (t.v.) PBS+ containing virus. Incubate virus-infected cells at RT for 1 h with rocking every 10 minutes.
   *	At the end of infection, aspirate virus and rinse X1 with PBS+. Add 500ul of warmed media. Place cells in incubator at 37°C for desired time.
 
