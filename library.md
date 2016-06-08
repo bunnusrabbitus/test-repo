@@ -15,7 +15,7 @@
   * use this stock to prepare the 45%, 15%, and 1M sucrose solutions.
 
 ###Protocol:
-** DAY 1**
+#####DAY 1:
 1. Wash cells twice with ice cold PBS + CHX
   * Use a 1/1000 dilution of the stock CHX solution
 2. Tilt the dishes in the ice and remove the PBS + CHX
@@ -30,7 +30,7 @@
 7. Incubate on ice for 15 min.
 8. Store samples at -80ºC until ready.
 
-**DAY 2**
+#####DAY 2:
 1. Thaw samples on ice.
 2. Transfer 100 µl of lysate from each timepoint to a separate Eppendorf for RNAseq
   *  Keep on ice.
