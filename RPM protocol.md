@@ -1,5 +1,16 @@
 ##General Protocol for Ribopuromycylation (Reovirus)
 
+#Abbreviations:
+* RPM = ribopuromycylation
+* MOI = multiplicity of infection
+* mM = millimolar
+* µM = micromolar
+* DMEM = Dulbecco's Modified Eagles Medium
+* x3 = three times
+* FBS = fetal bovine serum
+* DAPI = 4',6-diamidino-2-phenylindole
+* PBS = phosphate-buffered saline
+* PBS+ = phosphate-buffered saline containing 2 mM MgCl2
 
 1.	**Day Before Infection**
   *	Prepare a 24 well plate containing 15mm glass coverslips at a cell density that gives rise to about 60% confluency the next day. 
@@ -18,7 +29,7 @@
   1. 	Pre-warm RPM media (DMEM containing 7.5% FBS supplemented with 182 µM Puromycin and 208 µM emetine) and DMEM supplemented with 7.5% FBS.
   2. 	Aspirate media and wash once with warm DMEM/7.5% FBS.
   3. 	Pre-treat cells with 208 µM emetine for 15 minutes at 37°C
-  4. 	Aspirate and wash X 3 with warm DMEM/7.5% FBS.
+  4. 	Aspirate and wash x 3 with warm DMEM/7.5% FBS.
   5. 	Add warmed RPM media to coverslips for 5 minutes at 37°C
   6. 	Immediately place plate on ice.
   7. 	Wash cells x 2 with ice cold PBS.
@@ -29,7 +40,7 @@
   12. 	Aspirate primary antibody and wash coverslips X 1 with PBS.
   13. 	Incubate coverslips with secondary antibody diluted in SB for 1 h on rocker protected from light.
   14. 	Aspirate secondary and wash coverslips X 3 with PBS, leaving in last wash
-  15. 	Mount coverslips to glass slides with Prolong gold anti-fade reagent + dapi (6 µl for a 15mm coverslip). Allow coverslips to cure overnight before imaging. Store slides in dark.
+  15. 	Mount coverslips to glass slides with Prolong gold anti-fade reagent + DAPI (6 µl for a 15mm coverslip). Allow coverslips to cure overnight before imaging. Store slides in dark.
 
 
 ###IMPORTANT RECIPES:
