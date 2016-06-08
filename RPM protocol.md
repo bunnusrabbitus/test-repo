@@ -1,6 +1,6 @@
 ##General Protocol for Ribopuromycylation (Reovirus)
 
-#Abbreviations:
+####Abbreviations:
 * RPM = ribopuromycylation
 * MOI = multiplicity of infection
 * mM = millimolar
