@@ -10,7 +10,7 @@
   1.	 Ensure that cells are no more than 70% confluent.
   2.	 Place your virus on ice.
   3.	 Aspirate media from each well and rinse one time with PBS containing 2 mM MgCl2 (PBS+). 
-  4.	 To a 24 well plate add 150 µl (t.v.) PBS+ containing virus. Incubate virus-infected cells at RT for 1 h with rocking every 10 minutes.
+  4.	 To a 24 well plate add 150 µl (total volume) PBS+ containing virus. Incubate virus-infected cells at RT for 1 h with rocking every 10 minutes.
   5.	 At the end of infection, aspirate virus and rinse once with PBS+. Add 500 µl of warmed media. Place cells in incubator at 37°C for desired time.
 
 3.	**Ribopuromycylation with co-extract fix (to localize active translation using Puromycin)**
