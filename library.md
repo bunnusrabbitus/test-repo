@@ -1,4 +1,4 @@
-##Library_Construction
+##Library Construction
 ###General notes
 * Elution buffer: make components for yourself, EDTA from Saisai (fridge #50 lower right corner)
 * Polysome buffer: use components of Saisai for preparation of this buffer
@@ -12,7 +12,8 @@
 * Use new CHX for lysate buffer
 * Use old CHX powder in 4°C for PBS and sucrose
 * Prepare 60% sucrose stock
-* Use this to prepare the 45%, 15% and 1M Sucrose solutions
+  * Use this to prepare the 45%, 15% and 1M Sucrose solutions
+
 * Wash 2x with ice cold PBS+CHX
 * 1/1000 dilution CHX
 * Tilt plates in ice for easy removal of PBS+CHX
