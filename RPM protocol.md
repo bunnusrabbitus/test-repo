@@ -46,7 +46,7 @@
 
 
 ###IMPORTANT RECIPES:
-**PBS(<sup>+</sup>)**
+**PBS<sup>+</sup>**
 * PBS
 * 2 mM MgCl<sub>2</sub>
 
