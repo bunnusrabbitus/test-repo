@@ -70,4 +70,6 @@ _Polysome buffer containing:_
 * 3% Paraformaldehyde
 * 0.1% Triton X-100
 
+######Notes
+1. Add puromycin and emetine to RPM buffer just before use. These reagents should be stored at -20ºC.
 
